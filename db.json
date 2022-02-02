@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Porcupine, north american","category":"Khaki"},
+{"id":2,"name":"Bee-eater, carmine","category":"Goldenrod"},
+{"id":3,"name":"Duck, white-faced whistling","category":"Khaki"},
+{"id":4,"name":"Badger, eurasian","category":"Turquoise"},
+{"id":5,"name":"Oryx, beisa","category":"Purple"},
+{"id":6,"name":"Bat, asian false vampire","category":"Violet"},
+{"id":7,"name":"Cat, miner's","category":"Aquamarine"},
+{"id":8,"name":"Black-throated cardinal","category":"Aquamarine"},
+{"id":9,"name":"Fox, bat-eared","category":"Fuscia"},
+{"id":10,"name":"Cormorant, neotropic","category":"Crimson"},
+{"id":11,"name":"Turkey, australian brush","category":"Fuscia"},
+{"id":12,"name":"Ringtail cat","category":"Green"},
+{"id":13,"name":"Arboral spiny rat","category":"Mauv"},
+{"id":14,"name":"Yellow-billed stork","category":"Maroon"},
+{"id":15,"name":"Cape raven","category":"Violet"},
+{"id":16,"name":"Caracara, yellow-headed","category":"Pink"},
+{"id":17,"name":"Weeper capuchin","category":"Goldenrod"},
+{"id":18,"name":"Snake, tiger","category":"Turquoise"},
+{"id":19,"name":"Rhea, greater","category":"Crimson"},
+{"id":20,"name":"Booby, blue-footed","category":"Green"}
+]
+}
